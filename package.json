@@ -1,0 +1,10 @@
+{
+  "name": "bluebird-webpack-perf",
+  "version": "0.1.0",
+  "devDependencies": {
+    "bluebird": "^3.0.5",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "webpack": "^1.12.9"
+  }
+}
